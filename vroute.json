@@ -3,7 +3,7 @@
     "info": { "title": "Abivin vApp API docs", "description": "Abivin vApp API docs", "version": "1.0.0" },
     "servers": [{ "url": "https://virtserver.swaggerhub.com/Abivin/vApp-Server-X/1.0.0", "description": "SwaggerHub API Auto Mocking" }],
     "tags": [
-        { "name": "answer" },
+        { "name": "Answer" },
         { "name": "custom-fields" },
         { "name": "customers" },
         { "name": "datas" },
